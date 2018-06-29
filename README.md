@@ -285,6 +285,7 @@ Managed Kubernetes
   - [Kubermatic](http://www.loodse.com//)
   - [Hasura](https://hasura.io/)
   - [Rancher](https://rancher.com/)
+  - [Containership](https://containership.io/)
 
 
   ### [Developer Platform](#developer-platform)
